@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="logo.svg" width="30%" min-width="100px"/>
-  <a href="http://botsuniverse.ml"
+  <a href="http://botsuniverse.ml">
 </div>
 
 # [Bots Universe](https://botsuniverse.github.io)
